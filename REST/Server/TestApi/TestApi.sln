@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{A7FF816C-D26E-4BDA-8C81-E21289931406}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeassurementUnitTesting", "MeassurementUnitTesting\MeassurementUnitTesting.csproj", "{C79494CF-71B6-4844-AD4C-98963004092E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7FF816C-D26E-4BDA-8C81-E21289931406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7FF816C-D26E-4BDA-8C81-E21289931406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7FF816C-D26E-4BDA-8C81-E21289931406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7FF816C-D26E-4BDA-8C81-E21289931406}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C79494CF-71B6-4844-AD4C-98963004092E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C79494CF-71B6-4844-AD4C-98963004092E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C79494CF-71B6-4844-AD4C-98963004092E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C79494CF-71B6-4844-AD4C-98963004092E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54655A4B-D320-4674-8C62-73BCBD5C2E0E}
+	EndGlobalSection
+EndGlobal
